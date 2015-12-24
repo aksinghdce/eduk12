@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+     
+<head>
+     <title>jQM Complex Demo</title>
+     <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=no; target-densityDpi=device-dpi" />
+     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />
+     <link rel="stylesheet" href="http://example.gajotres.net/iscrollview/jquery.mobile.iscrollview.css" />
+     <link rel="stylesheet" href="http://example.gajotres.net/iscrollview/jquery.mobile.iscrollview-pull.css" />
+     <link rel="stylesheet" href="style.css">
+     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+     <script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+     <script src="http://example.gajotres.net/iscrollview/iscroll.js"></script>
+     <script src="http://example.gajotres.net/iscrollview/jquery.mobile.iscrollview.js"></script>
+     <script src="script.js"></script>
+</head>
+<body>
+    <div data-role="page" id="pageone">
+       <div data-role="header">
+             <h1>Insert Page Title Here</h1>
+       </div>
+    <div data-role="main" class="ui-content">
+       <p>Insert Content Here</p>
+    </div>
+    <div data-theme="a" data-role="footer">
+       <h1>Insert Footer Text Here</h1>
+    </div>
+    </div> 
+</body>
+                             
+</html>   

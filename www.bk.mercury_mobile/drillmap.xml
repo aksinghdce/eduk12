@@ -1,0 +1,43 @@
+<drillmap>
+	<level name="AT&amp;T Mobility">
+		<level name="Northeast Region">
+			<level name="EPA/SNJ/DE Group"/>
+			<level name="CT/Boston"/>
+			<level name="New York City/Northern New Jersey"/>
+			<level name="Upstate NY"/>
+			<level name="Virginia/WVA"/>
+			<level name="Wash DC/Baltimore"/>			
+		</level>		
+		<level name="Southeast Region">
+			<level name="Alabama/Mississippi/Louisiana"/>			
+			<level name="Georgia"/>
+			<level name="Kentucky/Tennessee"/>
+			<level name="North Carolina/South Carolina"/>
+			<level name="North Florida"/>
+			<level name="Puerto Rico/Virgin Islands"/>
+			<level name="South Florida"/>			
+		</level>		
+		<level name="North Central Region">
+			<level name="Chicago/Wisconsin"/>
+			<level name="Michigan/Indiana"/>
+			<level name="MN and Northern Plains"/>
+			<level name="Ohio/W PA"/>
+		</level>
+		<level name="South Central Region">
+			<level name="MO/KS"/>
+			<level name="North/ West Texas"/>
+			<level name="Oklahoma/ Arkansas"/>
+			<level name="South Texas"/>
+		</level>
+		<level name="West Region">
+			<level name="Arizona/New Mexico"/>
+			<level name="Greater Los Angeles"/>
+			<level name="Northern California"/>			
+			<level name="Pacific Northwest"/>
+			<level name="Rocky Mountain"/>
+			<level name="San Diego/Las Vegas"/>								
+		</level>
+		<level name="Zodiac Region"/>		
+	</level>
+	<level name="AT&amp;T Mobility (adjusted)"/>
+</drillmap>
